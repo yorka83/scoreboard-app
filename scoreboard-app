@@ -1,1 +1,18 @@
+# 1. Va dans le dossier
+cd /chemin/vers/scoreboard-app
+
+# 2. Initialise git
+git init
+
+# 3. Ajoute tout
+git add .
+
+# 4. Commit
+git commit -m "Initial commit of scoreboard app"
+
+# 5. Connecte à ton dépôt GitHub (remplace par le tien)
+git remote add origin https://github.com/ton-pseudo/scoreboard-app.git
+
+# 6. Envoie les fichiers
+git push -u origin main
 
